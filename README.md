@@ -29,6 +29,14 @@ Alunos:
   <img src = '/images/Kruskal_example.png' width = '300'>
 </p>
 
-- 
+- **Prim**
 
--
+<p align = center>
+  <img src = '/images/prim_example.png' width = '300'>
+</p>
+
+- **Ford-Fulkerson**
+
+<p align = center>
+  <img src = '/images/Ford_example.png' width = '300'>
+</p>
