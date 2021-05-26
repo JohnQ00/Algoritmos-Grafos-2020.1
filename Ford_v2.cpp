@@ -93,7 +93,7 @@ int main()
     addEdge(graph, 3, 4, 6);
     addEdge(graph, 4, 5, 6);
     
-    cout << "Fluxo máximo: " << ford_fulkerson(graph, 0, 5) << endl;
+    cout << "Fluxo maximo: " << ford_fulkerson(graph, 0, 5) << endl;
     return 0;
 }
 
